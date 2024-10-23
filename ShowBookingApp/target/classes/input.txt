@@ -1,0 +1,4 @@
+registerShow TMOKC COMEDY
+registerShow TMOKC THEATER
+
+onboardShowSlots TMOKC 9:00-10:00 1, 12:00-13:00 1, 15:00-16:00 1
